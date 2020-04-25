@@ -1,0 +1,19 @@
+div.content section {
+    margin: 20px 0;
+}
+
+div.content section h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+div.content section h3 {
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 0 0 0;
+}
+
+div.content section p {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 0;
+    text-align: justify;
+}
