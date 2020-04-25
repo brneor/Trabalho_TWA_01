@@ -4,7 +4,63 @@ table tr td {
     width: 300px;
 }
 
+table {
+    margin-top: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gallery {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
 #keyboard_1 {
     background-image: url("../images/keyboard_1.png");
 }
 
+#keyboard_2 {
+    background-image: url("../images/keyboard_2.jpg");
+}
+
+#keyboard_3 {
+    background-image: url("../images/keyboard_3.jpg");
+}
+
+#keyboard_4 {
+    background-image: url("../images/keyboard_4.jpg");
+}
+
+#keyboard_5 {
+    background-image: url("../images/keyboard_5.jpg");
+}
+
+#keyboard_6 {
+    background-image: url("../images/keyboard_6.jpg");
+}
+
+#keyboard_7 {
+    background-image: url("../images/keyboard_7.jpg");
+}
+
+#keyboard_8 {
+    background-image: url("../images/keyboard_8.jpg");
+}
+
+#keyboard_9 {
+    background-image: url("../images/keyboard_9.jpg");
+}
+
+#keyboard_10 {
+    background-image: url("../images/keyboard_10.jpg");
+}
+
+#keyboard_11 {
+    background-image: url("../images/keyboard_11.jpg");
+}
+
+#keyboard_12 {
+    background-image: url("../images/keyboard_12.jpg");
+}
