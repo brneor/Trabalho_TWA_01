@@ -1,6 +1,21 @@
 /* CSS específico para o hero. */
 div.hero {
     display: block;
-    height: 300px;
-    background-color: red;
+    height: 350px;
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.hero.home {
+    background-image: url('../images/keyboard_11.jpg');
+}
+
+div.hero.contact {
+    background-image: url('../images/keyboard_12.jpg');
+}
+
+div.hero.gallery {
+    background-image: url('../images/keyboard_2.jpg');
 }
