@@ -1,0 +1,6 @@
+/* CSS específico para o hero. */
+div.hero {
+    display: block;
+    height: 300px;
+    background-color: red;
+}
